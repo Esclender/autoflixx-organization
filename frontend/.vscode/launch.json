@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-AutoflixxApplication<autoflixx>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.autoflixx.AutoflixxApplication",
+      "projectName": "autoflixx",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
