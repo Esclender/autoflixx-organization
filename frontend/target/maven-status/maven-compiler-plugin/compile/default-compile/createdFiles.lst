@@ -1,9 +1,0 @@
-com\autoflixx\services\impl\ConfiteriaServiceImpl.class
-com\autoflixx\services\IMovieService.class
-com\autoflixx\controllers\MainController.class
-com\autoflixx\services\IConfiteriaService.class
-com\autoflixx\AutoflixxApplication.class
-com\autoflixx\models\MovieModel.class
-com\autoflixx\controllers\MovieController.class
-com\autoflixx\controllers\ConfiteriaController.class
-com\autoflixx\models\ConfiteriaModel.class
