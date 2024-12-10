@@ -2,7 +2,7 @@
 FROM openjdk:21-jdk-slim
 
 # Copy the built jar into the container
-ARG JAR_FILE=target/built.jar
+ARG JAR_FILE=target/config-server-0.0.1-SNAPSHOT.jar
 COPY ${JAR_FILE} app.jar
 
 # Expose the port the service runs on
